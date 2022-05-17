@@ -1,0 +1,40 @@
+      h1 {
+         color: white;
+         margin-left: 40px;
+      }
+      h4 {
+         color: white;
+         margin-left: 40px;
+      }
+
+      pre {
+         color: white;
+         margin-left: 60px;
+      }
+      table {
+          color: white;
+          margin-left: 60px;
+      }
+      a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
